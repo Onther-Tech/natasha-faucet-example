@@ -17,7 +17,7 @@ const {
   const privateKey = process.env.PRIVATE_KEY
   const l1Endpoint = process.env.RINKEBY_NODE_WEB3_URL
   const l2Endpoint = process.env.L2_NODE_WEB3_URL
-  const l1FeeTokenAddress = "0xf3f050b19DeF37070B364E81fBC73816696E4766"
+  const l1FeeTokenAddress = "0xA54bc6a3eAe22f7254E8C4494e2929Af94140441"
   const l2FeeTokenAddress = "0x4200000000000000000000000000000000000100"
 
   const l1BridgeAddress = process.env.L1_BRIDGE_ADDRESS
